@@ -42,7 +42,7 @@
     "versionPublish": "4.7.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/icon-inbot-128x124-1.png",
     "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": "",
