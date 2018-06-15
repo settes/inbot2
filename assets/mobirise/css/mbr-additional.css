@@ -1724,7 +1724,7 @@ body {
 .cid-qQJCHFfX8S {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background25.jpg");
+  background-image: url("../../../assets/images/background26.jpg");
 }
 .cid-qQJCHFfX8S *::-moz-selection {
   background: #ee7923;
@@ -14952,6 +14952,9 @@ body {
   border-bottom-right-radius: 3px;
   border-top-left-radius: 3px;
   border-bottom-left-radius: 3px;
+}
+.cid-qUZQ1I6ReC P {
+  text-align: left;
 }
 .cid-qUZQ1IDmQt {
   padding-top: 15px;
