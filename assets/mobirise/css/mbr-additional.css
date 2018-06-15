@@ -1724,7 +1724,7 @@ body {
 .cid-qQJCHFfX8S {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background24.jpg");
+  background-image: url("../../../assets/images/background25.jpg");
 }
 .cid-qQJCHFfX8S *::-moz-selection {
   background: #ee7923;
@@ -4800,6 +4800,9 @@ body {
   }
 }
 .cid-qT3cyRkD35 .mbr-section-subtitle B {
+  color: #ee7923;
+}
+.cid-qT3cyRkD35 .mbr-section-subtitle {
   color: #ee7923;
 }
 .cid-qT3eN3W1pa {
