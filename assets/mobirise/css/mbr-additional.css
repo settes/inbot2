@@ -1724,7 +1724,7 @@ body {
 .cid-qQJCHFfX8S {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background215.jpg");
+  background-image: url("../../../assets/images/background220.jpg");
 }
 .cid-qQJCHFfX8S *::-moz-selection {
   background: #ee7923;
@@ -2191,6 +2191,12 @@ body {
 }
 .cid-qR4nKq3uAx .media-container-row a {
   margin: 0 1rem;
+}
+#custom-html-90 {
+  /* Type valid CSS here */
+}
+#custom-html-90 .my-image {
+  width: 100%;
 }
 .cid-qQJCQkNXBP {
   padding-top: 75px;
