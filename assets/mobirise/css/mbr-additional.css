@@ -1539,7 +1539,7 @@ body {
   color: #ee7923;
 }
 .cid-qUHcTMfKnh {
-  background-image: url("../../../assets/images/homebackgroundchatbot-1900x814.jpg");
+  background-image: url("../../../assets/images/imagemchatbothome-1900x814.jpg");
 }
 .cid-qUHcTMfKnh *::-moz-selection {
   background: #ee7923;
@@ -1724,7 +1724,7 @@ body {
 .cid-qQJCHFfX8S {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background220.jpg");
+  background-image: url("../../../assets/images/background20.jpg");
 }
 .cid-qQJCHFfX8S *::-moz-selection {
   background: #ee7923;
@@ -4746,10 +4746,26 @@ body {
 .cid-qR6EFptZca .mbr-overlay {
   background: linear-gradient(#ee7923 -10%, #000000 75%);
 }
+.cid-qR6EFptZca *::-moz-selection {
+  background: #ee7923;
+  color: #ffffff;
+}
+.cid-qR6EFptZca *::selection {
+  background: #ee7923;
+  color: #ffffff;
+}
 .cid-qR6EFqnwdX {
   padding-top: 120px;
   padding-bottom: 30px;
   background-color: #ffffff;
+}
+.cid-qR6EFqnwdX *::-moz-selection {
+  background: #ee7923;
+  color: #ffffff;
+}
+.cid-qR6EFqnwdX *::selection {
+  background: #ee7923;
+  color: #ffffff;
 }
 .cid-qT3cyRkD35 {
   padding-top: 140px;
@@ -4818,6 +4834,14 @@ body {
 .cid-qT3cyRkD35 .mbr-section-subtitle {
   color: #ee7923;
 }
+.cid-qT3cyRkD35 *::-moz-selection {
+  background: #ee7923;
+  color: #ffffff;
+}
+.cid-qT3cyRkD35 *::selection {
+  background: #ee7923;
+  color: #ffffff;
+}
 .cid-qT3eN3W1pa {
   padding-top: 60px;
   padding-bottom: 15px;
@@ -4884,6 +4908,14 @@ body {
 }
 .cid-qT3eN3W1pa .mbr-section-subtitle {
   color: #ee7923;
+}
+.cid-qT3eN3W1pa *::-moz-selection {
+  background: #ee7923;
+  color: #ffffff;
+}
+.cid-qT3eN3W1pa *::selection {
+  background: #ee7923;
+  color: #ffffff;
 }
 .cid-qUTcXHG4Jz {
   padding-top: 60px;
@@ -4952,6 +4984,14 @@ body {
 .cid-qUTcXHG4Jz .mbr-section-subtitle {
   color: #ee7923;
 }
+.cid-qUTcXHG4Jz *::-moz-selection {
+  background: #ee7923;
+  color: #ffffff;
+}
+.cid-qUTcXHG4Jz *::selection {
+  background: #ee7923;
+  color: #ffffff;
+}
 .cid-qUTfSyEYX2 {
   padding-top: 60px;
   padding-bottom: 15px;
@@ -5018,6 +5058,14 @@ body {
 }
 .cid-qUTfSyEYX2 .mbr-section-subtitle {
   color: #ee7923;
+}
+.cid-qUTfSyEYX2 *::-moz-selection {
+  background: #ee7923;
+  color: #ffffff;
+}
+.cid-qUTfSyEYX2 *::selection {
+  background: #ee7923;
+  color: #ffffff;
 }
 .cid-qUThDySZlg {
   padding-top: 60px;
@@ -5086,6 +5134,14 @@ body {
 .cid-qUThDySZlg .mbr-section-subtitle {
   color: #ee7923;
 }
+.cid-qUThDySZlg *::-moz-selection {
+  background: #ee7923;
+  color: #ffffff;
+}
+.cid-qUThDySZlg *::selection {
+  background: #ee7923;
+  color: #ffffff;
+}
 .cid-qUTiMUPpOd {
   padding-top: 60px;
   padding-bottom: 15px;
@@ -5152,6 +5208,14 @@ body {
 }
 .cid-qUTiMUPpOd .mbr-section-subtitle {
   color: #ee7923;
+}
+.cid-qUTiMUPpOd *::-moz-selection {
+  background: #ee7923;
+  color: #ffffff;
+}
+.cid-qUTiMUPpOd *::selection {
+  background: #ee7923;
+  color: #ffffff;
 }
 .cid-qUTpuesjpb {
   padding-top: 60px;
@@ -5220,75 +5284,91 @@ body {
 .cid-qUTpuesjpb .mbr-section-subtitle {
   color: #ee7923;
 }
-.cid-qR6EFxyDvN {
+.cid-qUTpuesjpb *::-moz-selection {
+  background: #ee7923;
+  color: #ffffff;
+}
+.cid-qUTpuesjpb *::selection {
+  background: #ee7923;
+  color: #ffffff;
+}
+.cid-qX4gfaTdPw {
   padding-top: 90px;
   padding-bottom: 90px;
   background-image: url("../../../assets/images/telefonia-e-internet-coprel-triway-tapejara-1999x1335.jpg");
 }
-.cid-qR6EFxyDvN .mbr-overlay {
+.cid-qX4gfaTdPw .mbr-overlay {
   background: linear-gradient(90deg, #ee7923, #aa581b);
 }
-.cid-qR6EFxyDvN h2,
-.cid-qR6EFxyDvN h3,
-.cid-qR6EFxyDvN h4,
-.cid-qR6EFxyDvN p {
+.cid-qX4gfaTdPw h2,
+.cid-qX4gfaTdPw h3,
+.cid-qX4gfaTdPw h4,
+.cid-qX4gfaTdPw p {
   color: #ffffff;
 }
-.cid-qR6EFxyDvN .mbr-iconfont {
+.cid-qX4gfaTdPw .mbr-iconfont {
   font-size: 48px;
   padding-right: 1rem;
 }
-.cid-qR6EFxyDvN .input {
+.cid-qX4gfaTdPw .input {
   margin-bottom: 15px;
 }
-.cid-qR6EFxyDvN .text-block {
+.cid-qX4gfaTdPw .text-block {
   border-bottom: 1px solid #767676;
 }
-.cid-qR6EFxyDvN .media-container-row {
+.cid-qX4gfaTdPw .media-container-row {
   align-items: center;
 }
-.cid-qR6EFxyDvN .mbr-text {
+.cid-qX4gfaTdPw .mbr-text {
   color: #767676;
 }
-.cid-qR6EFxyDvN a:not([href]):not([tabindex]) {
+.cid-qX4gfaTdPw a:not([href]):not([tabindex]) {
   color: #fff;
   border-radius: 3px;
 }
-.cid-qR6EFxyDvN .multi-horizontal {
+.cid-qX4gfaTdPw .multi-horizontal {
   flex-grow: 1;
   -webkit-flex-grow: 1;
   max-width: 100%;
 }
-.cid-qR6EFxyDvN .input-group-btn {
+.cid-qX4gfaTdPw .input-group-btn {
   display: block;
   text-align: center;
 }
-.cid-qR6EFxyDvN .block .form-control {
+.cid-qX4gfaTdPw .block .form-control {
   padding: 1.07em 1.07em;
 }
 @media (max-width: 767px) {
-  .cid-qR6EFxyDvN h2 {
+  .cid-qX4gfaTdPw h2 {
     padding-top: 2rem;
   }
 }
 @media (min-width: 768px) {
-  .cid-qR6EFxyDvN .container > .row > .col-md-6:first-child {
+  .cid-qX4gfaTdPw .container > .row > .col-md-6:first-child {
     padding-right: 30px;
   }
-  .cid-qR6EFxyDvN .container > .row > .col-md-6:last-child {
+  .cid-qX4gfaTdPw .container > .row > .col-md-6:last-child {
     padding-left: 30px;
   }
 }
 @media (max-width: 991px) {
-  .cid-qR6EFxyDvN .google-map {
+  .cid-qX4gfaTdPw .google-map {
     padding-bottom: 2rem;
   }
 }
-.cid-qR6EFxyDvN H2 {
+.cid-qX4gfaTdPw H2 {
   text-align: center;
 }
-.cid-qR6EFxyDvN .mbr-section-subtitle {
+.cid-qX4gfaTdPw .mbr-section-subtitle {
   text-align: center;
+}
+.cid-qX4gfaTdPw *::-moz-selection {
+  background: #000000;
+  color: #ffffff;
+}
+.cid-qX4gfaTdPw *::selection {
+  background: #000000;
+  color: #ffffff;
 }
 .cid-qV497wV8p7 {
   padding-top: 45px;
@@ -6071,7 +6151,7 @@ body {
 }
 .cid-qVJYxHfbdF {
   padding-top: 75px;
-  padding-bottom: 90px;
+  padding-bottom: 45px;
   background-color: #ffffff;
 }
 .cid-qVJYxHfbdF .mbr-overlay {
@@ -6167,81 +6247,89 @@ body {
 .cid-qVJYxHfbdF H4 {
   color: #ee7923;
 }
-.cid-qR6EMvxocJ {
+.cid-qVJYxHfbdF *::-moz-selection {
+  background: #ee7923;
+  color: #ffffff;
+}
+.cid-qVJYxHfbdF *::selection {
+  background: #ee7923;
+  color: #ffffff;
+}
+.cid-qX4jL5nxt0 {
   padding-top: 90px;
   padding-bottom: 90px;
   background-image: url("../../../assets/images/telefonia-e-internet-coprel-triway-tapejara-1999x1335.jpg");
 }
-.cid-qR6EMvxocJ .mbr-overlay {
+.cid-qX4jL5nxt0 .mbr-overlay {
   background: linear-gradient(90deg, #ee7923, #aa581b);
 }
-.cid-qR6EMvxocJ h2,
-.cid-qR6EMvxocJ h3,
-.cid-qR6EMvxocJ h4,
-.cid-qR6EMvxocJ p {
+.cid-qX4jL5nxt0 h2,
+.cid-qX4jL5nxt0 h3,
+.cid-qX4jL5nxt0 h4,
+.cid-qX4jL5nxt0 p {
   color: #ffffff;
 }
-.cid-qR6EMvxocJ .mbr-iconfont {
+.cid-qX4jL5nxt0 .mbr-iconfont {
   font-size: 48px;
   padding-right: 1rem;
 }
-.cid-qR6EMvxocJ .input {
+.cid-qX4jL5nxt0 .input {
   margin-bottom: 15px;
 }
-.cid-qR6EMvxocJ .text-block {
+.cid-qX4jL5nxt0 .text-block {
   border-bottom: 1px solid #767676;
 }
-.cid-qR6EMvxocJ .media-container-row {
+.cid-qX4jL5nxt0 .media-container-row {
   align-items: center;
 }
-.cid-qR6EMvxocJ .mbr-text {
+.cid-qX4jL5nxt0 .mbr-text {
   color: #767676;
 }
-.cid-qR6EMvxocJ a:not([href]):not([tabindex]) {
+.cid-qX4jL5nxt0 a:not([href]):not([tabindex]) {
   color: #fff;
   border-radius: 3px;
 }
-.cid-qR6EMvxocJ .multi-horizontal {
+.cid-qX4jL5nxt0 .multi-horizontal {
   flex-grow: 1;
   -webkit-flex-grow: 1;
   max-width: 100%;
 }
-.cid-qR6EMvxocJ .input-group-btn {
+.cid-qX4jL5nxt0 .input-group-btn {
   display: block;
   text-align: center;
 }
-.cid-qR6EMvxocJ .block .form-control {
+.cid-qX4jL5nxt0 .block .form-control {
   padding: 1.07em 1.07em;
 }
 @media (max-width: 767px) {
-  .cid-qR6EMvxocJ h2 {
+  .cid-qX4jL5nxt0 h2 {
     padding-top: 2rem;
   }
 }
 @media (min-width: 768px) {
-  .cid-qR6EMvxocJ .container > .row > .col-md-6:first-child {
+  .cid-qX4jL5nxt0 .container > .row > .col-md-6:first-child {
     padding-right: 30px;
   }
-  .cid-qR6EMvxocJ .container > .row > .col-md-6:last-child {
+  .cid-qX4jL5nxt0 .container > .row > .col-md-6:last-child {
     padding-left: 30px;
   }
 }
 @media (max-width: 991px) {
-  .cid-qR6EMvxocJ .google-map {
+  .cid-qX4jL5nxt0 .google-map {
     padding-bottom: 2rem;
   }
 }
-.cid-qR6EMvxocJ H2 {
+.cid-qX4jL5nxt0 H2 {
   text-align: center;
 }
-.cid-qR6EMvxocJ .mbr-section-subtitle {
+.cid-qX4jL5nxt0 .mbr-section-subtitle {
   text-align: center;
 }
-.cid-qR6EMvxocJ *::-moz-selection {
+.cid-qX4jL5nxt0 *::-moz-selection {
   background: #000000;
   color: #ffffff;
 }
-.cid-qR6EMvxocJ *::selection {
+.cid-qX4jL5nxt0 *::selection {
   background: #000000;
   color: #ffffff;
 }
@@ -7051,6 +7139,14 @@ body {
 .cid-qR75mCUm5V .section-text DIV {
   text-align: justify;
 }
+.cid-qR75mCUm5V *::-moz-selection {
+  background: #ee7923;
+  color: #ffffff;
+}
+.cid-qR75mCUm5V *::selection {
+  background: #ee7923;
+  color: #ffffff;
+}
 .cid-qVyxgjrneu {
   padding-top: 30px;
   padding-bottom: 90px;
@@ -7115,6 +7211,14 @@ body {
 }
 .cid-qVyxgjrneu H4 {
   color: #ee7923;
+}
+.cid-qVyxgjrneu *::-moz-selection {
+  background: #ee7923;
+  color: #ffffff;
+}
+.cid-qVyxgjrneu *::selection {
+  background: #ee7923;
+  color: #ffffff;
 }
 .cid-qV49bTtrRT {
   padding-top: 45px;
@@ -7981,6 +8085,14 @@ body {
 .cid-qVyCBRs2jZ .mbr-section-btn {
   color: #ee7923;
 }
+.cid-qVyCBRs2jZ *::-moz-selection {
+  background: #ee7923;
+  color: #ffffff;
+}
+.cid-qVyCBRs2jZ *::selection {
+  background: #ee7923;
+  color: #ffffff;
+}
 .cid-qVyBZWXmKX {
   padding-top: 15px;
   padding-bottom: 0px;
@@ -8007,6 +8119,14 @@ body {
 }
 .cid-qVyBZWXmKX .section-text DIV {
   text-align: justify;
+}
+.cid-qVyBZWXmKX *::-moz-selection {
+  background: #ee7923;
+  color: #ffffff;
+}
+.cid-qVyBZWXmKX *::selection {
+  background: #ee7923;
+  color: #ffffff;
 }
 .cid-qVyFS2uMfY {
   padding-top: 60px;
@@ -8106,6 +8226,14 @@ body {
 .cid-qVyFS2uMfY H4 {
   color: #ee7923;
 }
+.cid-qVyFS2uMfY *::-moz-selection {
+  background: #ee7923;
+  color: #ffffff;
+}
+.cid-qVyFS2uMfY *::selection {
+  background: #ee7923;
+  color: #ffffff;
+}
 .cid-qVyIiBSdDf {
   padding-top: 60px;
   padding-bottom: 15px;
@@ -8144,83 +8272,83 @@ body {
     width: 100% !important;
   }
 }
-.cid-qUTqQprb2A {
+.cid-qX4hc2ojeq {
   padding-top: 90px;
   padding-bottom: 90px;
   background-image: url("../../../assets/images/telefonia-e-internet-coprel-triway-tapejara-1999x1335.jpg");
 }
-.cid-qUTqQprb2A *::-moz-selection {
-  background: #000000;
-  color: #ffffff;
-}
-.cid-qUTqQprb2A *::selection {
-  background: #000000;
-  color: #ffffff;
-}
-.cid-qUTqQprb2A .mbr-overlay {
+.cid-qX4hc2ojeq .mbr-overlay {
   background: linear-gradient(90deg, #ee7923, #aa581b);
 }
-.cid-qUTqQprb2A h2,
-.cid-qUTqQprb2A h3,
-.cid-qUTqQprb2A h4,
-.cid-qUTqQprb2A p {
+.cid-qX4hc2ojeq h2,
+.cid-qX4hc2ojeq h3,
+.cid-qX4hc2ojeq h4,
+.cid-qX4hc2ojeq p {
   color: #ffffff;
 }
-.cid-qUTqQprb2A .mbr-iconfont {
+.cid-qX4hc2ojeq .mbr-iconfont {
   font-size: 48px;
   padding-right: 1rem;
 }
-.cid-qUTqQprb2A .input {
+.cid-qX4hc2ojeq .input {
   margin-bottom: 15px;
 }
-.cid-qUTqQprb2A .text-block {
+.cid-qX4hc2ojeq .text-block {
   border-bottom: 1px solid #767676;
 }
-.cid-qUTqQprb2A .media-container-row {
+.cid-qX4hc2ojeq .media-container-row {
   align-items: center;
 }
-.cid-qUTqQprb2A .mbr-text {
+.cid-qX4hc2ojeq .mbr-text {
   color: #767676;
 }
-.cid-qUTqQprb2A a:not([href]):not([tabindex]) {
+.cid-qX4hc2ojeq a:not([href]):not([tabindex]) {
   color: #fff;
   border-radius: 3px;
 }
-.cid-qUTqQprb2A .multi-horizontal {
+.cid-qX4hc2ojeq .multi-horizontal {
   flex-grow: 1;
   -webkit-flex-grow: 1;
   max-width: 100%;
 }
-.cid-qUTqQprb2A .input-group-btn {
+.cid-qX4hc2ojeq .input-group-btn {
   display: block;
   text-align: center;
 }
-.cid-qUTqQprb2A .block .form-control {
+.cid-qX4hc2ojeq .block .form-control {
   padding: 1.07em 1.07em;
 }
 @media (max-width: 767px) {
-  .cid-qUTqQprb2A h2 {
+  .cid-qX4hc2ojeq h2 {
     padding-top: 2rem;
   }
 }
 @media (min-width: 768px) {
-  .cid-qUTqQprb2A .container > .row > .col-md-6:first-child {
+  .cid-qX4hc2ojeq .container > .row > .col-md-6:first-child {
     padding-right: 30px;
   }
-  .cid-qUTqQprb2A .container > .row > .col-md-6:last-child {
+  .cid-qX4hc2ojeq .container > .row > .col-md-6:last-child {
     padding-left: 30px;
   }
 }
 @media (max-width: 991px) {
-  .cid-qUTqQprb2A .google-map {
+  .cid-qX4hc2ojeq .google-map {
     padding-bottom: 2rem;
   }
 }
-.cid-qUTqQprb2A H2 {
+.cid-qX4hc2ojeq H2 {
   text-align: center;
 }
-.cid-qUTqQprb2A .mbr-section-subtitle {
+.cid-qX4hc2ojeq .mbr-section-subtitle {
   text-align: center;
+}
+.cid-qX4hc2ojeq *::-moz-selection {
+  background: #000000;
+  color: #ffffff;
+}
+.cid-qX4hc2ojeq *::selection {
+  background: #000000;
+  color: #ffffff;
 }
 .cid-qV49sQC2g3 {
   padding-top: 45px;
@@ -9085,6 +9213,14 @@ body {
     text-align: top;
   }
 }
+.cid-qVEicSwXzN *::-moz-selection {
+  background: #ee7923;
+  color: #ffffff;
+}
+.cid-qVEicSwXzN *::selection {
+  background: #ee7923;
+  color: #ffffff;
+}
 .cid-qVEpiSZOFI {
   padding-top: 60px;
   padding-bottom: 15px;
@@ -9136,6 +9272,14 @@ body {
 }
 .cid-qVExxwGYZO H3 {
   color: #000000;
+}
+.cid-qVExxwGYZO *::-moz-selection {
+  background: #ee7923;
+  color: #ffffff;
+}
+.cid-qVExxwGYZO *::selection {
+  background: #ee7923;
+  color: #ffffff;
 }
 .cid-qVEzTE6uWG {
   padding-top: 90px;
@@ -9233,6 +9377,14 @@ body {
 .cid-qVEytyXEx8 .mbr-gallery-filter ul li {
   padding: 0;
 }
+.cid-qVEytyXEx8 *::-moz-selection {
+  background: #ee7923;
+  color: #ffffff;
+}
+.cid-qVEytyXEx8 *::selection {
+  background: #ee7923;
+  color: #ffffff;
+}
 .cid-qVECJx2tBE {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -9260,83 +9412,91 @@ body {
 .cid-qVECJx2tBE .section-text DIV {
   text-align: justify;
 }
-.cid-qUZN60AFcy {
+.cid-qVECJx2tBE *::-moz-selection {
+  background: #ee7923;
+  color: #ffffff;
+}
+.cid-qVECJx2tBE *::selection {
+  background: #ee7923;
+  color: #ffffff;
+}
+.cid-qX4hACoQqO {
   padding-top: 90px;
   padding-bottom: 90px;
   background-image: url("../../../assets/images/telefonia-e-internet-coprel-triway-tapejara-1999x1335.jpg");
 }
-.cid-qUZN60AFcy *::-moz-selection {
-  background: #000000;
-  color: #ffffff;
-}
-.cid-qUZN60AFcy *::selection {
-  background: #000000;
-  color: #ffffff;
-}
-.cid-qUZN60AFcy .mbr-overlay {
+.cid-qX4hACoQqO .mbr-overlay {
   background: linear-gradient(90deg, #ee7923, #aa581b);
 }
-.cid-qUZN60AFcy h2,
-.cid-qUZN60AFcy h3,
-.cid-qUZN60AFcy h4,
-.cid-qUZN60AFcy p {
+.cid-qX4hACoQqO h2,
+.cid-qX4hACoQqO h3,
+.cid-qX4hACoQqO h4,
+.cid-qX4hACoQqO p {
   color: #ffffff;
 }
-.cid-qUZN60AFcy .mbr-iconfont {
+.cid-qX4hACoQqO .mbr-iconfont {
   font-size: 48px;
   padding-right: 1rem;
 }
-.cid-qUZN60AFcy .input {
+.cid-qX4hACoQqO .input {
   margin-bottom: 15px;
 }
-.cid-qUZN60AFcy .text-block {
+.cid-qX4hACoQqO .text-block {
   border-bottom: 1px solid #767676;
 }
-.cid-qUZN60AFcy .media-container-row {
+.cid-qX4hACoQqO .media-container-row {
   align-items: center;
 }
-.cid-qUZN60AFcy .mbr-text {
+.cid-qX4hACoQqO .mbr-text {
   color: #767676;
 }
-.cid-qUZN60AFcy a:not([href]):not([tabindex]) {
+.cid-qX4hACoQqO a:not([href]):not([tabindex]) {
   color: #fff;
   border-radius: 3px;
 }
-.cid-qUZN60AFcy .multi-horizontal {
+.cid-qX4hACoQqO .multi-horizontal {
   flex-grow: 1;
   -webkit-flex-grow: 1;
   max-width: 100%;
 }
-.cid-qUZN60AFcy .input-group-btn {
+.cid-qX4hACoQqO .input-group-btn {
   display: block;
   text-align: center;
 }
-.cid-qUZN60AFcy .block .form-control {
+.cid-qX4hACoQqO .block .form-control {
   padding: 1.07em 1.07em;
 }
 @media (max-width: 767px) {
-  .cid-qUZN60AFcy h2 {
+  .cid-qX4hACoQqO h2 {
     padding-top: 2rem;
   }
 }
 @media (min-width: 768px) {
-  .cid-qUZN60AFcy .container > .row > .col-md-6:first-child {
+  .cid-qX4hACoQqO .container > .row > .col-md-6:first-child {
     padding-right: 30px;
   }
-  .cid-qUZN60AFcy .container > .row > .col-md-6:last-child {
+  .cid-qX4hACoQqO .container > .row > .col-md-6:last-child {
     padding-left: 30px;
   }
 }
 @media (max-width: 991px) {
-  .cid-qUZN60AFcy .google-map {
+  .cid-qX4hACoQqO .google-map {
     padding-bottom: 2rem;
   }
 }
-.cid-qUZN60AFcy H2 {
+.cid-qX4hACoQqO H2 {
   text-align: center;
 }
-.cid-qUZN60AFcy .mbr-section-subtitle {
+.cid-qX4hACoQqO .mbr-section-subtitle {
   text-align: center;
+}
+.cid-qX4hACoQqO *::-moz-selection {
+  background: #000000;
+  color: #ffffff;
+}
+.cid-qX4hACoQqO *::selection {
+  background: #000000;
+  color: #ffffff;
 }
 .cid-qV49wqX5xb {
   padding-top: 45px;
@@ -10200,6 +10360,14 @@ body {
     text-align: top;
   }
 }
+.cid-qVFRy9Wlvd *::-moz-selection {
+  background: #ee7923;
+  color: #ffffff;
+}
+.cid-qVFRy9Wlvd *::selection {
+  background: #ee7923;
+  color: #ffffff;
+}
 .cid-qUZNwOj0vY {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -10226,6 +10394,14 @@ body {
 }
 .cid-qUZNwOj0vY .section-text DIV {
   text-align: justify;
+}
+.cid-qUZNwOj0vY *::-moz-selection {
+  background: #ee7923;
+  color: #ffffff;
+}
+.cid-qUZNwOj0vY *::selection {
+  background: #ee7923;
+  color: #ffffff;
 }
 .cid-qVFSHp69pF {
   padding-top: 20px;
@@ -10285,6 +10461,14 @@ body {
 }
 .cid-qVFSHp69pF P {
   color: #464646;
+}
+.cid-qVFSHp69pF *::-moz-selection {
+  background: #ee7923;
+  color: #ffffff;
+}
+.cid-qVFSHp69pF *::selection {
+  background: #ee7923;
+  color: #ffffff;
 }
 .cid-qVFU4OFkkh {
   padding-top: 45px;
@@ -10379,6 +10563,14 @@ body {
 .cid-qVFWAFReGz .mbr-gallery-filter ul li {
   padding: 0;
 }
+.cid-qVFWAFReGz *::-moz-selection {
+  background: #ee7923;
+  color: #ffffff;
+}
+.cid-qVFWAFReGz *::selection {
+  background: #ee7923;
+  color: #ffffff;
+}
 .cid-qVFUkv83qt {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -10406,11 +10598,27 @@ body {
 .cid-qVFUkv83qt .section-text DIV {
   text-align: justify;
 }
+.cid-qVFUkv83qt *::-moz-selection {
+  background: #ee7923;
+  color: #ffffff;
+}
+.cid-qVFUkv83qt *::selection {
+  background: #ee7923;
+  color: #ffffff;
+}
 #custom-html-8h {
   /* Type valid CSS here */
 }
 #custom-html-8h .my-image {
   width: 100%;
+}
+#custom-html-8h *::-moz-selection {
+  background: #ee7923;
+  color: #ffffff;
+}
+#custom-html-8h *::selection {
+  background: #ee7923;
+  color: #ffffff;
 }
 .cid-qVFUqgc9Cv {
   padding-top: 30px;
@@ -10461,6 +10669,14 @@ body {
 .cid-qVFUBD555C .section-text DIV {
   text-align: justify;
 }
+.cid-qVFUBD555C *::-moz-selection {
+  background: #ee7923;
+  color: #ffffff;
+}
+.cid-qVFUBD555C *::selection {
+  background: #ee7923;
+  color: #ffffff;
+}
 .cid-qVFVejcT9s {
   padding-top: 30px;
   padding-bottom: 15px;
@@ -10499,83 +10715,83 @@ body {
     width: 100% !important;
   }
 }
-.cid-qUZNwOJgVa {
+.cid-qX4iwZdmP5 {
   padding-top: 90px;
   padding-bottom: 90px;
   background-image: url("../../../assets/images/telefonia-e-internet-coprel-triway-tapejara-1999x1335.jpg");
 }
-.cid-qUZNwOJgVa *::-moz-selection {
-  background: #000000;
-  color: #ffffff;
-}
-.cid-qUZNwOJgVa *::selection {
-  background: #000000;
-  color: #ffffff;
-}
-.cid-qUZNwOJgVa .mbr-overlay {
+.cid-qX4iwZdmP5 .mbr-overlay {
   background: linear-gradient(90deg, #ee7923, #aa581b);
 }
-.cid-qUZNwOJgVa h2,
-.cid-qUZNwOJgVa h3,
-.cid-qUZNwOJgVa h4,
-.cid-qUZNwOJgVa p {
+.cid-qX4iwZdmP5 h2,
+.cid-qX4iwZdmP5 h3,
+.cid-qX4iwZdmP5 h4,
+.cid-qX4iwZdmP5 p {
   color: #ffffff;
 }
-.cid-qUZNwOJgVa .mbr-iconfont {
+.cid-qX4iwZdmP5 .mbr-iconfont {
   font-size: 48px;
   padding-right: 1rem;
 }
-.cid-qUZNwOJgVa .input {
+.cid-qX4iwZdmP5 .input {
   margin-bottom: 15px;
 }
-.cid-qUZNwOJgVa .text-block {
+.cid-qX4iwZdmP5 .text-block {
   border-bottom: 1px solid #767676;
 }
-.cid-qUZNwOJgVa .media-container-row {
+.cid-qX4iwZdmP5 .media-container-row {
   align-items: center;
 }
-.cid-qUZNwOJgVa .mbr-text {
+.cid-qX4iwZdmP5 .mbr-text {
   color: #767676;
 }
-.cid-qUZNwOJgVa a:not([href]):not([tabindex]) {
+.cid-qX4iwZdmP5 a:not([href]):not([tabindex]) {
   color: #fff;
   border-radius: 3px;
 }
-.cid-qUZNwOJgVa .multi-horizontal {
+.cid-qX4iwZdmP5 .multi-horizontal {
   flex-grow: 1;
   -webkit-flex-grow: 1;
   max-width: 100%;
 }
-.cid-qUZNwOJgVa .input-group-btn {
+.cid-qX4iwZdmP5 .input-group-btn {
   display: block;
   text-align: center;
 }
-.cid-qUZNwOJgVa .block .form-control {
+.cid-qX4iwZdmP5 .block .form-control {
   padding: 1.07em 1.07em;
 }
 @media (max-width: 767px) {
-  .cid-qUZNwOJgVa h2 {
+  .cid-qX4iwZdmP5 h2 {
     padding-top: 2rem;
   }
 }
 @media (min-width: 768px) {
-  .cid-qUZNwOJgVa .container > .row > .col-md-6:first-child {
+  .cid-qX4iwZdmP5 .container > .row > .col-md-6:first-child {
     padding-right: 30px;
   }
-  .cid-qUZNwOJgVa .container > .row > .col-md-6:last-child {
+  .cid-qX4iwZdmP5 .container > .row > .col-md-6:last-child {
     padding-left: 30px;
   }
 }
 @media (max-width: 991px) {
-  .cid-qUZNwOJgVa .google-map {
+  .cid-qX4iwZdmP5 .google-map {
     padding-bottom: 2rem;
   }
 }
-.cid-qUZNwOJgVa H2 {
+.cid-qX4iwZdmP5 H2 {
   text-align: center;
 }
-.cid-qUZNwOJgVa .mbr-section-subtitle {
+.cid-qX4iwZdmP5 .mbr-section-subtitle {
   text-align: center;
+}
+.cid-qX4iwZdmP5 *::-moz-selection {
+  background: #000000;
+  color: #ffffff;
+}
+.cid-qX4iwZdmP5 *::selection {
+  background: #000000;
+  color: #ffffff;
 }
 .cid-qV49AwAjBo {
   padding-top: 45px;
@@ -11442,6 +11658,14 @@ body {
 .cid-qVG5RnbFWz P {
   color: #464646;
 }
+.cid-qVG5RnbFWz *::-moz-selection {
+  background: #ee7923;
+  color: #ffffff;
+}
+.cid-qVG5RnbFWz *::selection {
+  background: #ee7923;
+  color: #ffffff;
+}
 .cid-qVG57ijnr9 {
   padding-top: 105px;
   padding-bottom: 45px;
@@ -11524,83 +11748,83 @@ body {
     width: 100% !important;
   }
 }
-.cid-qUZNDZtLLT {
+.cid-qX4iJNf7e9 {
   padding-top: 90px;
   padding-bottom: 90px;
   background-image: url("../../../assets/images/telefonia-e-internet-coprel-triway-tapejara-1999x1335.jpg");
 }
-.cid-qUZNDZtLLT *::-moz-selection {
-  background: #000000;
-  color: #ffffff;
-}
-.cid-qUZNDZtLLT *::selection {
-  background: #000000;
-  color: #ffffff;
-}
-.cid-qUZNDZtLLT .mbr-overlay {
+.cid-qX4iJNf7e9 .mbr-overlay {
   background: linear-gradient(90deg, #ee7923, #aa581b);
 }
-.cid-qUZNDZtLLT h2,
-.cid-qUZNDZtLLT h3,
-.cid-qUZNDZtLLT h4,
-.cid-qUZNDZtLLT p {
+.cid-qX4iJNf7e9 h2,
+.cid-qX4iJNf7e9 h3,
+.cid-qX4iJNf7e9 h4,
+.cid-qX4iJNf7e9 p {
   color: #ffffff;
 }
-.cid-qUZNDZtLLT .mbr-iconfont {
+.cid-qX4iJNf7e9 .mbr-iconfont {
   font-size: 48px;
   padding-right: 1rem;
 }
-.cid-qUZNDZtLLT .input {
+.cid-qX4iJNf7e9 .input {
   margin-bottom: 15px;
 }
-.cid-qUZNDZtLLT .text-block {
+.cid-qX4iJNf7e9 .text-block {
   border-bottom: 1px solid #767676;
 }
-.cid-qUZNDZtLLT .media-container-row {
+.cid-qX4iJNf7e9 .media-container-row {
   align-items: center;
 }
-.cid-qUZNDZtLLT .mbr-text {
+.cid-qX4iJNf7e9 .mbr-text {
   color: #767676;
 }
-.cid-qUZNDZtLLT a:not([href]):not([tabindex]) {
+.cid-qX4iJNf7e9 a:not([href]):not([tabindex]) {
   color: #fff;
   border-radius: 3px;
 }
-.cid-qUZNDZtLLT .multi-horizontal {
+.cid-qX4iJNf7e9 .multi-horizontal {
   flex-grow: 1;
   -webkit-flex-grow: 1;
   max-width: 100%;
 }
-.cid-qUZNDZtLLT .input-group-btn {
+.cid-qX4iJNf7e9 .input-group-btn {
   display: block;
   text-align: center;
 }
-.cid-qUZNDZtLLT .block .form-control {
+.cid-qX4iJNf7e9 .block .form-control {
   padding: 1.07em 1.07em;
 }
 @media (max-width: 767px) {
-  .cid-qUZNDZtLLT h2 {
+  .cid-qX4iJNf7e9 h2 {
     padding-top: 2rem;
   }
 }
 @media (min-width: 768px) {
-  .cid-qUZNDZtLLT .container > .row > .col-md-6:first-child {
+  .cid-qX4iJNf7e9 .container > .row > .col-md-6:first-child {
     padding-right: 30px;
   }
-  .cid-qUZNDZtLLT .container > .row > .col-md-6:last-child {
+  .cid-qX4iJNf7e9 .container > .row > .col-md-6:last-child {
     padding-left: 30px;
   }
 }
 @media (max-width: 991px) {
-  .cid-qUZNDZtLLT .google-map {
+  .cid-qX4iJNf7e9 .google-map {
     padding-bottom: 2rem;
   }
 }
-.cid-qUZNDZtLLT H2 {
+.cid-qX4iJNf7e9 H2 {
   text-align: center;
 }
-.cid-qUZNDZtLLT .mbr-section-subtitle {
+.cid-qX4iJNf7e9 .mbr-section-subtitle {
   text-align: center;
+}
+.cid-qX4iJNf7e9 *::-moz-selection {
+  background: #000000;
+  color: #ffffff;
+}
+.cid-qX4iJNf7e9 *::selection {
+  background: #000000;
+  color: #ffffff;
 }
 .cid-qV49FbxEeF {
   padding-top: 45px;
@@ -12467,6 +12691,14 @@ body {
 .cid-qVG7nTNsCU P {
   color: #464646;
 }
+.cid-qVG7nTNsCU *::-moz-selection {
+  background: #ee7923;
+  color: #ffffff;
+}
+.cid-qVG7nTNsCU *::selection {
+  background: #ee7923;
+  color: #ffffff;
+}
 .cid-qVG8tbLkNF {
   padding-top: 75px;
   padding-bottom: 0px;
@@ -12532,83 +12764,83 @@ body {
 #custom-html-8x .my-image {
   width: 100%;
 }
-.cid-qUZNUfcR0V {
+.cid-qX4j0VAR5y {
   padding-top: 90px;
   padding-bottom: 90px;
   background-image: url("../../../assets/images/telefonia-e-internet-coprel-triway-tapejara-1999x1335.jpg");
 }
-.cid-qUZNUfcR0V *::-moz-selection {
-  background: #000000;
-  color: #ffffff;
-}
-.cid-qUZNUfcR0V *::selection {
-  background: #000000;
-  color: #ffffff;
-}
-.cid-qUZNUfcR0V .mbr-overlay {
+.cid-qX4j0VAR5y .mbr-overlay {
   background: linear-gradient(90deg, #ee7923, #aa581b);
 }
-.cid-qUZNUfcR0V h2,
-.cid-qUZNUfcR0V h3,
-.cid-qUZNUfcR0V h4,
-.cid-qUZNUfcR0V p {
+.cid-qX4j0VAR5y h2,
+.cid-qX4j0VAR5y h3,
+.cid-qX4j0VAR5y h4,
+.cid-qX4j0VAR5y p {
   color: #ffffff;
 }
-.cid-qUZNUfcR0V .mbr-iconfont {
+.cid-qX4j0VAR5y .mbr-iconfont {
   font-size: 48px;
   padding-right: 1rem;
 }
-.cid-qUZNUfcR0V .input {
+.cid-qX4j0VAR5y .input {
   margin-bottom: 15px;
 }
-.cid-qUZNUfcR0V .text-block {
+.cid-qX4j0VAR5y .text-block {
   border-bottom: 1px solid #767676;
 }
-.cid-qUZNUfcR0V .media-container-row {
+.cid-qX4j0VAR5y .media-container-row {
   align-items: center;
 }
-.cid-qUZNUfcR0V .mbr-text {
+.cid-qX4j0VAR5y .mbr-text {
   color: #767676;
 }
-.cid-qUZNUfcR0V a:not([href]):not([tabindex]) {
+.cid-qX4j0VAR5y a:not([href]):not([tabindex]) {
   color: #fff;
   border-radius: 3px;
 }
-.cid-qUZNUfcR0V .multi-horizontal {
+.cid-qX4j0VAR5y .multi-horizontal {
   flex-grow: 1;
   -webkit-flex-grow: 1;
   max-width: 100%;
 }
-.cid-qUZNUfcR0V .input-group-btn {
+.cid-qX4j0VAR5y .input-group-btn {
   display: block;
   text-align: center;
 }
-.cid-qUZNUfcR0V .block .form-control {
+.cid-qX4j0VAR5y .block .form-control {
   padding: 1.07em 1.07em;
 }
 @media (max-width: 767px) {
-  .cid-qUZNUfcR0V h2 {
+  .cid-qX4j0VAR5y h2 {
     padding-top: 2rem;
   }
 }
 @media (min-width: 768px) {
-  .cid-qUZNUfcR0V .container > .row > .col-md-6:first-child {
+  .cid-qX4j0VAR5y .container > .row > .col-md-6:first-child {
     padding-right: 30px;
   }
-  .cid-qUZNUfcR0V .container > .row > .col-md-6:last-child {
+  .cid-qX4j0VAR5y .container > .row > .col-md-6:last-child {
     padding-left: 30px;
   }
 }
 @media (max-width: 991px) {
-  .cid-qUZNUfcR0V .google-map {
+  .cid-qX4j0VAR5y .google-map {
     padding-bottom: 2rem;
   }
 }
-.cid-qUZNUfcR0V H2 {
+.cid-qX4j0VAR5y H2 {
   text-align: center;
 }
-.cid-qUZNUfcR0V .mbr-section-subtitle {
+.cid-qX4j0VAR5y .mbr-section-subtitle {
   text-align: center;
+}
+.cid-qX4j0VAR5y *::-moz-selection {
+  background: #000000;
+  color: #ffffff;
+}
+.cid-qX4j0VAR5y *::selection {
+  background: #000000;
+  color: #ffffff;
 }
 .cid-qV49Jb1HZj {
   padding-top: 45px;
@@ -13437,83 +13669,83 @@ body {
 .cid-qUZO6rQvSY .section-text DIV {
   text-align: justify;
 }
-.cid-qUZO6sfJa6 {
+.cid-qX4j8GFGvp {
   padding-top: 90px;
   padding-bottom: 90px;
   background-image: url("../../../assets/images/telefonia-e-internet-coprel-triway-tapejara-1999x1335.jpg");
 }
-.cid-qUZO6sfJa6 *::-moz-selection {
-  background: #000000;
-  color: #ffffff;
-}
-.cid-qUZO6sfJa6 *::selection {
-  background: #000000;
-  color: #ffffff;
-}
-.cid-qUZO6sfJa6 .mbr-overlay {
+.cid-qX4j8GFGvp .mbr-overlay {
   background: linear-gradient(90deg, #ee7923, #aa581b);
 }
-.cid-qUZO6sfJa6 h2,
-.cid-qUZO6sfJa6 h3,
-.cid-qUZO6sfJa6 h4,
-.cid-qUZO6sfJa6 p {
+.cid-qX4j8GFGvp h2,
+.cid-qX4j8GFGvp h3,
+.cid-qX4j8GFGvp h4,
+.cid-qX4j8GFGvp p {
   color: #ffffff;
 }
-.cid-qUZO6sfJa6 .mbr-iconfont {
+.cid-qX4j8GFGvp .mbr-iconfont {
   font-size: 48px;
   padding-right: 1rem;
 }
-.cid-qUZO6sfJa6 .input {
+.cid-qX4j8GFGvp .input {
   margin-bottom: 15px;
 }
-.cid-qUZO6sfJa6 .text-block {
+.cid-qX4j8GFGvp .text-block {
   border-bottom: 1px solid #767676;
 }
-.cid-qUZO6sfJa6 .media-container-row {
+.cid-qX4j8GFGvp .media-container-row {
   align-items: center;
 }
-.cid-qUZO6sfJa6 .mbr-text {
+.cid-qX4j8GFGvp .mbr-text {
   color: #767676;
 }
-.cid-qUZO6sfJa6 a:not([href]):not([tabindex]) {
+.cid-qX4j8GFGvp a:not([href]):not([tabindex]) {
   color: #fff;
   border-radius: 3px;
 }
-.cid-qUZO6sfJa6 .multi-horizontal {
+.cid-qX4j8GFGvp .multi-horizontal {
   flex-grow: 1;
   -webkit-flex-grow: 1;
   max-width: 100%;
 }
-.cid-qUZO6sfJa6 .input-group-btn {
+.cid-qX4j8GFGvp .input-group-btn {
   display: block;
   text-align: center;
 }
-.cid-qUZO6sfJa6 .block .form-control {
+.cid-qX4j8GFGvp .block .form-control {
   padding: 1.07em 1.07em;
 }
 @media (max-width: 767px) {
-  .cid-qUZO6sfJa6 h2 {
+  .cid-qX4j8GFGvp h2 {
     padding-top: 2rem;
   }
 }
 @media (min-width: 768px) {
-  .cid-qUZO6sfJa6 .container > .row > .col-md-6:first-child {
+  .cid-qX4j8GFGvp .container > .row > .col-md-6:first-child {
     padding-right: 30px;
   }
-  .cid-qUZO6sfJa6 .container > .row > .col-md-6:last-child {
+  .cid-qX4j8GFGvp .container > .row > .col-md-6:last-child {
     padding-left: 30px;
   }
 }
 @media (max-width: 991px) {
-  .cid-qUZO6sfJa6 .google-map {
+  .cid-qX4j8GFGvp .google-map {
     padding-bottom: 2rem;
   }
 }
-.cid-qUZO6sfJa6 H2 {
+.cid-qX4j8GFGvp H2 {
   text-align: center;
 }
-.cid-qUZO6sfJa6 .mbr-section-subtitle {
+.cid-qX4j8GFGvp .mbr-section-subtitle {
   text-align: center;
+}
+.cid-qX4j8GFGvp *::-moz-selection {
+  background: #000000;
+  color: #ffffff;
+}
+.cid-qX4j8GFGvp *::selection {
+  background: #000000;
+  color: #ffffff;
 }
 .cid-qV49NMjds5 {
   padding-top: 45px;
@@ -14342,83 +14574,83 @@ body {
 .cid-qUZOdHCLz4 .section-text DIV {
   text-align: justify;
 }
-.cid-qUZOdI6oBF {
+.cid-qX4jgtp6L4 {
   padding-top: 90px;
   padding-bottom: 90px;
   background-image: url("../../../assets/images/telefonia-e-internet-coprel-triway-tapejara-1999x1335.jpg");
 }
-.cid-qUZOdI6oBF *::-moz-selection {
-  background: #000000;
-  color: #ffffff;
-}
-.cid-qUZOdI6oBF *::selection {
-  background: #000000;
-  color: #ffffff;
-}
-.cid-qUZOdI6oBF .mbr-overlay {
+.cid-qX4jgtp6L4 .mbr-overlay {
   background: linear-gradient(90deg, #ee7923, #aa581b);
 }
-.cid-qUZOdI6oBF h2,
-.cid-qUZOdI6oBF h3,
-.cid-qUZOdI6oBF h4,
-.cid-qUZOdI6oBF p {
+.cid-qX4jgtp6L4 h2,
+.cid-qX4jgtp6L4 h3,
+.cid-qX4jgtp6L4 h4,
+.cid-qX4jgtp6L4 p {
   color: #ffffff;
 }
-.cid-qUZOdI6oBF .mbr-iconfont {
+.cid-qX4jgtp6L4 .mbr-iconfont {
   font-size: 48px;
   padding-right: 1rem;
 }
-.cid-qUZOdI6oBF .input {
+.cid-qX4jgtp6L4 .input {
   margin-bottom: 15px;
 }
-.cid-qUZOdI6oBF .text-block {
+.cid-qX4jgtp6L4 .text-block {
   border-bottom: 1px solid #767676;
 }
-.cid-qUZOdI6oBF .media-container-row {
+.cid-qX4jgtp6L4 .media-container-row {
   align-items: center;
 }
-.cid-qUZOdI6oBF .mbr-text {
+.cid-qX4jgtp6L4 .mbr-text {
   color: #767676;
 }
-.cid-qUZOdI6oBF a:not([href]):not([tabindex]) {
+.cid-qX4jgtp6L4 a:not([href]):not([tabindex]) {
   color: #fff;
   border-radius: 3px;
 }
-.cid-qUZOdI6oBF .multi-horizontal {
+.cid-qX4jgtp6L4 .multi-horizontal {
   flex-grow: 1;
   -webkit-flex-grow: 1;
   max-width: 100%;
 }
-.cid-qUZOdI6oBF .input-group-btn {
+.cid-qX4jgtp6L4 .input-group-btn {
   display: block;
   text-align: center;
 }
-.cid-qUZOdI6oBF .block .form-control {
+.cid-qX4jgtp6L4 .block .form-control {
   padding: 1.07em 1.07em;
 }
 @media (max-width: 767px) {
-  .cid-qUZOdI6oBF h2 {
+  .cid-qX4jgtp6L4 h2 {
     padding-top: 2rem;
   }
 }
 @media (min-width: 768px) {
-  .cid-qUZOdI6oBF .container > .row > .col-md-6:first-child {
+  .cid-qX4jgtp6L4 .container > .row > .col-md-6:first-child {
     padding-right: 30px;
   }
-  .cid-qUZOdI6oBF .container > .row > .col-md-6:last-child {
+  .cid-qX4jgtp6L4 .container > .row > .col-md-6:last-child {
     padding-left: 30px;
   }
 }
 @media (max-width: 991px) {
-  .cid-qUZOdI6oBF .google-map {
+  .cid-qX4jgtp6L4 .google-map {
     padding-bottom: 2rem;
   }
 }
-.cid-qUZOdI6oBF H2 {
+.cid-qX4jgtp6L4 H2 {
   text-align: center;
 }
-.cid-qUZOdI6oBF .mbr-section-subtitle {
+.cid-qX4jgtp6L4 .mbr-section-subtitle {
   text-align: center;
+}
+.cid-qX4jgtp6L4 *::-moz-selection {
+  background: #000000;
+  color: #ffffff;
+}
+.cid-qX4jgtp6L4 *::selection {
+  background: #000000;
+  color: #ffffff;
 }
 .cid-qV49SVkNf5 {
   padding-top: 45px;
@@ -15173,11 +15405,11 @@ body {
   background-color: #ee7923;
 }
 .cid-qUZOQTVft3 *::-moz-selection {
-  background: #ee7923;
+  background: #000000;
   color: #ffffff;
 }
 .cid-qUZOQTVft3 *::selection {
-  background: #ee7923;
+  background: #000000;
   color: #ffffff;
 }
 .cid-qUZOQTVft3 .block-title {
@@ -15209,6 +15441,14 @@ body {
 }
 .cid-qUZOQUCMRX .section-text DIV {
   text-align: justify;
+}
+.cid-qUZOQUCMRX *::-moz-selection {
+  background: #ee7923;
+  color: #ffffff;
+}
+.cid-qUZOQUCMRX *::selection {
+  background: #ee7923;
+  color: #ffffff;
 }
 .cid-qV49WAKGPN {
   padding-top: 45px;
@@ -15963,11 +16203,11 @@ body {
   background-color: #ee7923;
 }
 .cid-qUZQ1Henpv *::-moz-selection {
-  background: #ee7923;
+  background: #000000;
   color: #ffffff;
 }
 .cid-qUZQ1Henpv *::selection {
-  background: #ee7923;
+  background: #000000;
   color: #ffffff;
 }
 .cid-qUZQ1Henpv .block-title {
@@ -15999,6 +16239,14 @@ body {
 }
 .cid-qUZQ1HEyio .section-text DIV {
   text-align: justify;
+}
+.cid-qUZQ1HEyio *::-moz-selection {
+  background: #ee7923;
+  color: #ffffff;
+}
+.cid-qUZQ1HEyio *::selection {
+  background: #ee7923;
+  color: #ffffff;
 }
 .cid-qUZQ1I6ReC {
   padding-top: 45px;
@@ -16771,11 +17019,11 @@ body {
   background-color: #ee7923;
 }
 .cid-qVFKeTQkzr *::-moz-selection {
-  background: #ee7923;
+  background: #000000;
   color: #ffffff;
 }
 .cid-qVFKeTQkzr *::selection {
-  background: #ee7923;
+  background: #000000;
   color: #ffffff;
 }
 .cid-qVFKeTQkzr .block-title {
@@ -16846,6 +17094,14 @@ body {
 .cid-qVEBdDmjOa I {
   color: #a2a2a2;
 }
+.cid-qVEBdDmjOa *::-moz-selection {
+  background: #ee7923;
+  color: #ffffff;
+}
+.cid-qVEBdDmjOa *::selection {
+  background: #ee7923;
+  color: #ffffff;
+}
 .cid-qVFMFcvPwp {
   padding-top: 15px;
   padding-bottom: 0px;
@@ -16872,6 +17128,14 @@ body {
 }
 .cid-qVFMFcvPwp .section-text DIV {
   text-align: justify;
+}
+.cid-qVFMFcvPwp *::-moz-selection {
+  background: #ee7923;
+  color: #ffffff;
+}
+.cid-qVFMFcvPwp *::selection {
+  background: #ee7923;
+  color: #ffffff;
 }
 .cid-qVFNarItIt {
   padding-top: 0px;
@@ -16938,6 +17202,14 @@ body {
 .cid-qVFNarItIt P {
   color: #464646;
 }
+.cid-qVFNarItIt *::-moz-selection {
+  background: #ee7923;
+  color: #ffffff;
+}
+.cid-qVFNarItIt *::selection {
+  background: #ee7923;
+  color: #ffffff;
+}
 .cid-qVEBdF2lAa {
   padding-top: 20px;
   padding-bottom: 75px;
@@ -16952,83 +17224,91 @@ body {
 .cid-qVEBdF2lAa H3 {
   color: #000000;
 }
-.cid-qVEBdH9rUX {
+.cid-qVEBdF2lAa *::-moz-selection {
+  background: #ee7923;
+  color: #ffffff;
+}
+.cid-qVEBdF2lAa *::selection {
+  background: #ee7923;
+  color: #ffffff;
+}
+.cid-qX4hRWnooL {
   padding-top: 90px;
   padding-bottom: 90px;
   background-image: url("../../../assets/images/telefonia-e-internet-coprel-triway-tapejara-1999x1335.jpg");
 }
-.cid-qVEBdH9rUX *::-moz-selection {
-  background: #000000;
-  color: #ffffff;
-}
-.cid-qVEBdH9rUX *::selection {
-  background: #000000;
-  color: #ffffff;
-}
-.cid-qVEBdH9rUX .mbr-overlay {
+.cid-qX4hRWnooL .mbr-overlay {
   background: linear-gradient(90deg, #ee7923, #aa581b);
 }
-.cid-qVEBdH9rUX h2,
-.cid-qVEBdH9rUX h3,
-.cid-qVEBdH9rUX h4,
-.cid-qVEBdH9rUX p {
+.cid-qX4hRWnooL h2,
+.cid-qX4hRWnooL h3,
+.cid-qX4hRWnooL h4,
+.cid-qX4hRWnooL p {
   color: #ffffff;
 }
-.cid-qVEBdH9rUX .mbr-iconfont {
+.cid-qX4hRWnooL .mbr-iconfont {
   font-size: 48px;
   padding-right: 1rem;
 }
-.cid-qVEBdH9rUX .input {
+.cid-qX4hRWnooL .input {
   margin-bottom: 15px;
 }
-.cid-qVEBdH9rUX .text-block {
+.cid-qX4hRWnooL .text-block {
   border-bottom: 1px solid #767676;
 }
-.cid-qVEBdH9rUX .media-container-row {
+.cid-qX4hRWnooL .media-container-row {
   align-items: center;
 }
-.cid-qVEBdH9rUX .mbr-text {
+.cid-qX4hRWnooL .mbr-text {
   color: #767676;
 }
-.cid-qVEBdH9rUX a:not([href]):not([tabindex]) {
+.cid-qX4hRWnooL a:not([href]):not([tabindex]) {
   color: #fff;
   border-radius: 3px;
 }
-.cid-qVEBdH9rUX .multi-horizontal {
+.cid-qX4hRWnooL .multi-horizontal {
   flex-grow: 1;
   -webkit-flex-grow: 1;
   max-width: 100%;
 }
-.cid-qVEBdH9rUX .input-group-btn {
+.cid-qX4hRWnooL .input-group-btn {
   display: block;
   text-align: center;
 }
-.cid-qVEBdH9rUX .block .form-control {
+.cid-qX4hRWnooL .block .form-control {
   padding: 1.07em 1.07em;
 }
 @media (max-width: 767px) {
-  .cid-qVEBdH9rUX h2 {
+  .cid-qX4hRWnooL h2 {
     padding-top: 2rem;
   }
 }
 @media (min-width: 768px) {
-  .cid-qVEBdH9rUX .container > .row > .col-md-6:first-child {
+  .cid-qX4hRWnooL .container > .row > .col-md-6:first-child {
     padding-right: 30px;
   }
-  .cid-qVEBdH9rUX .container > .row > .col-md-6:last-child {
+  .cid-qX4hRWnooL .container > .row > .col-md-6:last-child {
     padding-left: 30px;
   }
 }
 @media (max-width: 991px) {
-  .cid-qVEBdH9rUX .google-map {
+  .cid-qX4hRWnooL .google-map {
     padding-bottom: 2rem;
   }
 }
-.cid-qVEBdH9rUX H2 {
+.cid-qX4hRWnooL H2 {
   text-align: center;
 }
-.cid-qVEBdH9rUX .mbr-section-subtitle {
+.cid-qX4hRWnooL .mbr-section-subtitle {
   text-align: center;
+}
+.cid-qX4hRWnooL *::-moz-selection {
+  background: #000000;
+  color: #ffffff;
+}
+.cid-qX4hRWnooL *::selection {
+  background: #000000;
+  color: #ffffff;
 }
 .cid-qVEBdHSTjo {
   padding-top: 45px;
